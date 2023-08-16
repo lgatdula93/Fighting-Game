@@ -8,8 +8,6 @@ pygame.init()
 
 
 SCREEN = pygame.display.set_mode((1000, 600))
-
-
 pygame.display.set_caption("Menu")
 
 BG = pygame.image.load("assets/images/background/menu_bg.jpeg")
